@@ -1,0 +1,10 @@
+.K: Contact
+.V: Prins Hendrikkade 164C 1011 TB Amsterdam, NL
+.K: DeviceCategory
+.V: (null)
+.K: Info
+.V: Salto Group
+.K: Manufacturer
+.V: Clay
+.K: MfgDate
+.V: 14th March 2019 
