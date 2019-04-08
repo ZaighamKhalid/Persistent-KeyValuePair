@@ -1,0 +1,10 @@
+.K: Contact
+.V: Prins Hendrikkade 164C 1011 TB Amsterdam, NL
+.K: DeviceCategory
+.V: Access Control
+.K: Info
+.V: Salto Group
+.K: Manufacturer
+.V: Clay
+.K: Phone
+.V: +31 203 034 280
